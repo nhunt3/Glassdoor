@@ -1,0 +1,17 @@
+Take home problems:
+1. Given a string, write a routine that converts the string to a long, without using the
+built in functions that would do this. Describe what (if any) limitations the code has.  
+
+2. Implement insert and delete in a tri-nary tree. A tri-nary tree is much like a binary
+tree but with three child nodes for each parent instead of two -- with the left node
+being values less than the parent, the right node values greater than the parent, and
+the middle nodes values equal to the parent.  
+
+Fibonacci (cumulative sum)
+Factorial function
+Validate if tree is BST
+Traverse a BST to find a node
+Find Least Common Ancestor
+Binary Search Questions
+Find all anagrams of a given word
+Reduce a mail address to a maximum of N characters while preserving all numbers, and maintaining readability.  
